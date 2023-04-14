@@ -12,11 +12,6 @@ Approximately three years ago, I commenced my work in this field. In the initial
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on WordPress, Shopify, HTML/CSS and JavaScript projects
 
-<a href="https://www.github.com/Abdullah1856" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Abdullah1856?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a><a href="https://www.twitter.com/abdullah_1856" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/abdullah_1856?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 
