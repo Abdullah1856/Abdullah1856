@@ -12,7 +12,6 @@ Approximately three years ago, I commenced my work in this field. In the initial
 * ✉️  You can contact me at [he.abdullaharshad@gmail.com](mailto:he.abdullaharshad@gmail.com)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on WordPress, Shopify, HTML/CSS and JavaScript projects
-<br>
 ### Skills
 
 
@@ -25,7 +24,8 @@ Approximately three years ago, I commenced my work in this field. In the initial
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" style="max-width: 100%;"></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-<br>
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/Abdullah-1856" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/Abdullah1856" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18872293/abdullah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/abdullah_1856" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
