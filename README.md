@@ -10,7 +10,7 @@ Approximately three years ago, I commenced my work in this field. In the initial
 * 🖥️  See my portfolio at [https://abdullah1856.github.io/Portfolio](http://abdullah1856.github.io/Portfolio)
 * ✉️  You can contact me at [he.abdullaharshad@gmail.com](mailto:he.abdullaharshad@gmail.com)
 * 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on WordPress, Shopify, HTML/CSS and JavaScript projects
+* 🤝  I'm open to collaborating on WordPress, Shopify, HTML/CSS, Bootstrap and JavaScript projects
 ### Skills
 
 
