@@ -4,7 +4,7 @@ Hi 👋 My name is Abdullah
 I am a Front-End Web Developer, Mostly works on WordPress
 ---------------------------------------------------------
 
-Approximately three years ago, I commenced my work in this field. In the initial stages, I began learning HTML and CSS and subsequently worked on WordPress projects. Over time, I acquired a strong command over WordPress and HTML, as well as CSS. Additionally, I had the opportunity to work on a few Shopify projects, and I found the platform intriguing due to its requirement for more coding. Moreover, I possess adept skills in server management. Presently, I am focusing on advancing my proficiency in JavaScript and React.
+Approximately four years ago, I commenced my work in this field. In the initial stages, I began learning HTML and CSS and subsequently worked on WordPress projects. Over time, I acquired a strong command over WordPress and HTML, as well as CSS. Additionally, I had the opportunity to work on a few Shopify projects, and I found the platform intriguing due to its requirement for more coding. Moreover, I possess adept skills in server management. Presently, I am focusing on advancing my proficiency in JavaScript and React.
 
 * 🌍  I'm based in Karachi, Pakistan
 * 🖥️  See my portfolio at [https://abdullah1856.github.io/Portfolio](http://abdullah1856.github.io/Portfolio)
