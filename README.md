@@ -1,46 +1,37 @@
-Hi 👋 My name is Abdullah
-=========================
+<h1 align="center">Hey, I'm Abdullah 👋</h1>
+<p align="center"><b>WordPress Developer · Building for the web since 2019</b></p>
+<p align="center">Clean design. Thoughtful code. Websites that work.</p>
 
-I am a Front-End Web Developer, Mostly works on WordPress
----------------------------------------------------------
-
-Approximately four years ago, I commenced my work in this field. In the initial stages, I began learning HTML and CSS and subsequently worked on WordPress projects. Over time, I acquired a strong command over WordPress and HTML, as well as CSS. Additionally, I had the opportunity to work on a few Shopify projects, and I found the platform intriguing due to its requirement for more coding. Moreover, I possess adept skills in server management. Presently, I am focusing on advancing my proficiency in JavaScript and React.
-
-* 🌍  I'm based in Karachi, Pakistan
-* 🖥️  See my portfolio at [https://abdullah1856.github.io/Portfolio](http://abdullah1856.github.io/Portfolio)
-* ✉️  You can contact me at [he.abdullaharshad@gmail.com](mailto:he.abdullaharshad@gmail.com)
-* 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on WordPress, Shopify, HTML/CSS, Bootstrap and JavaScript projects
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" style="max-width: 100%;"></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+  <a href="https://abdullah1856.github.io/Portfolio/">View my portfolio ↗</a>
 </p>
 
+---
 
-### Socials
+### A little about me
 
-<p align="left"> <a href="https://www.codepen.io/Abdullah-1856" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/Abdullah1856" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18872293/abdullah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/abdullah_1856" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+I'm a developer from Karachi, Pakistan, working with WordPress, WooCommerce, and front-end technologies. I enjoy turning ideas into responsive, easy-to-use websites.
 
-### Badges
+- 🛠️ Working with WordPress, page builders, and e-commerce.
+- ⚡ Focused on responsive design, SEO, and website speed.
+- 🌱 Exploring custom themes, plugins, APIs, and React.
 
-<b>My GitHub Stats</b>
+### My toolkit
 
-<a href="http://www.github.com/Abdullah1856"><img src="https://github-readme-stats.vercel.app/api?username=Abdullah1856&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abdullah1856's GitHub stats" /></a>
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&amp;logo=woocommerce&amp;logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&amp;logo=elementor&amp;logoColor=white" alt="Elementor" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=222222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
+</p>
 
-<a href="http://www.github.com/Abdullah1856"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah1856&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**Also work with:** Divi · Avada · Flatsome · WPBakery · Astra · cPanel
 
-<a href="http://www.github.com/Abdullah1856"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abdullah1856&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/Abdullah1856" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah1856&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Abdullah1856/Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullah1856&repo=Portfolio&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Abdullah1856/Custom-Practice-Site" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullah1856&repo=Custom-Practice-Site&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p align="center"><sub>Always learning. Always building.</sub></p>
